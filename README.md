@@ -1,7 +1,15 @@
 ## Bem vindo ao meu perfil do Github
 
-**Antony Eduardo Baldissera**
+**Antony Eduardo Baldissera** 👍
 
-Cursando o Alura
+- Estou estudando no alura
+- Estou aprendendo a linguagem Javascript
+- Utilizo este espaço para organização pessoal
 
-[](https://tenor.com/jvpFJZ3F4ei.gif)
+### Para entrar em contato comigo 📫
+
+baldissera.antony@secola.pr.gov.br
+
+@baldi_an
+
+![](https://tenor.com/Mb3B.gif)
